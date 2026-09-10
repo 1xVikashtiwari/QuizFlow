@@ -1,7 +1,7 @@
 import "./AdminQuizBuilder.css";
 import { MdDelete } from "react-icons/md";
 import { IoMdSettings } from "react-icons/io";
-import useQuiz from "../../services/QuizBuilderService";
+import useQuiz from "../../Services/QuizBuilderService";
 
 function AdminQuizBuilder() {
   const {
